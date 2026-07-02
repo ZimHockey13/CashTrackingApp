@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/CashTrackingApp/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {

@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "base": "/CashTrackingApp/",
+    "baseUrl": ".",
     "target": "ES2022",
     "experimentalDecorators": true,
     "useDefineForClassFields": false,
