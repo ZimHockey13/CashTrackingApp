@@ -1,0 +1,8 @@
+{
+  "name": "EZ Money",
+  "description": "An offline-first budgeting utility with bottom navigation tabs, cash flow Sankey visualizers, asset and net worth tracking, and server-side Gemini-powered financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
